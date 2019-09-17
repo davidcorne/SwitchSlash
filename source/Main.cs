@@ -7,12 +7,13 @@ using System.Diagnostics;
 using System.IO;
 
 //=============================================================================
-namespace SS {
-  class Run
-  {
-    static void Main()
+namespace SS
+{
+    class Run
     {
-      Console.WriteLine("SS");
+        static void Main()
+        {
+            Console.WriteLine("SS");
+        }
     }
-  }
 }
